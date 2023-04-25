@@ -8,7 +8,7 @@ workers_dev = true
 # preview_id 只在调试时使用，不需要请删除
 
 kv_namespaces = [
-  { binding = "DATABASE", id = "", preview_id = "" }
+  { binding = "DATABASE", id = "47dce4f892054064b026b987a7b30305", preview_id = "" }
 ]
 
 [vars]
